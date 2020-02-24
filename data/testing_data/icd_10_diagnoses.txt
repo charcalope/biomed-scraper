@@ -1,0 +1,275 @@
+F93.1: Phobic anxiety disorder of childhood  
+F20.8: Other schizophrenia  
+F23.2: Acute schizophrenia-like psychotic disorder  
+F41.2: 
+F41.3: Other mixed anxiety disorders 
+F44.7: Mixed dissociative [conversion] disorders 
+F68.1: Intentional production or feigning of symptoms or disabilities, either physical or 
+F20.0: Paranoid schizophrenia  
+F20.1: Hebephrenic schizophrenia  
+F20.2: Catatonic schizophrenia  
+F20.3: Undifferentiated schizophrenia  
+F20.4: Post-schizophrenic depression  
+F20.5: above) without any history of hallucinations, delusions, 
+F20.6: Simple schizophrenia  
+F20.9: Schizophrenia, unspecified  
+F22.0: Delusional disorder  
+F22.8: Other persistent delusional disorders  
+F22.9: Persistent delusional disorder, unspecified  
+F23.0: Acute polymorphic psychotic disorder without symptoms of schizophrenia  
+F23.1: Acute polymorphic psychotic disorder with symptoms of schizophrenia  
+F23.3: Other acute predominantly delusional psychotic disorders  
+F23.8: Other acute and transient psychotic disorders  
+F23.9: Acute and transient psychotic disorder, unspecified  
+F25.0: Schizoaffective disorder, manic type  
+F25.1: Schizoaffective disorder, depressive type  
+F25.2: Schizoaffective disorder, mixed type  
+F25.8: Other schizoaffective disorders  
+F25.9: Schizoaffective disorder, unspecified  
+F30.0: Hypomania 
+F30.1: and F30.2). However, the category should still be used if 
+F30.2: Mania with psychotic symptoms 
+F30.8: Other manic episodes 
+F30.9: Manic episode, unspecified 
+F31.0: Bipolar affective disorder, current episode hypomanic 
+F31.1: Bipolar affective disorder, current episode manic without psychotic symptoms 
+F31.2: Bipolar affective disorder, current episode manic with 
+F31.4: or F31.5), a recurrent depressive disorder 
+F31.5: Bipolar affective disorder, current episode severe 
+F31.6: Bipolar affective disorder, current episode mixed 
+F31.7: Bipolar affective disorder, currently in remission 
+F31.8: Other bipolar affective disorders 
+F31.9: Bipolar affective disorder, unspecified 
+F32.0: Mild depressive episode 
+F32.1: Moderate depressive episode 
+F32.2: and F32.3)), without any 
+F32.3: Severe depressive episode with psychotic symptoms 
+F32.8: Other depressive episodes 
+F32.9: Depressive episode, unspecified 
+F33.0: or F33.1). It usually begins early in adult life and lasts for 
+F33.1: Recurrent depressive disorder, current episode moderate 
+F33.2:  or 
+F33.3: Recurrent depressive disorder, current episode severe with 
+F33.4: Recurrent depressive disorder, currently in remission 
+F33.8: Other recurrent depressive disorders 
+F33.9: Recurrent depressive disorder, unspecified 
+F34.0: Cyclothymia 
+F34.1: Dysthymia 
+F34.8: Other persistent mood [affective] disorders 
+F34.9: Persistent mood [affective] disorder, unspecified 
+F38.0: Other single mood [affective] disorders 
+F38.1: above. 
+F38.8: Other specified mood [affective] disorders 
+F40.0: Agoraphobia 
+F40.1: Social phobias 
+F40.2: Specific (isolated) phobias 
+F40.8: Other phobic anxiety disorders 
+F40.9: Phobic anxiety disorder, unspecified 
+F41.0: Panic disorder [episodic paroxysmal anxiety] 
+F41.1: Generalized anxiety disorder 
+F41.8: Other specified anxiety disorders 
+F41.9: Anxiety disorder, unspecified 
+F42.0: Predominantly obsessional thoughts or ruminations 
+F42.1: Predominantly compulsive acts [obsessional rituals] 
+F42.2: Mixed obsessional thoughts and acts 
+F42.8: Other obsessive-compulsive disorders 
+F42.9: Obsessive-compulsive disorder, unspecified 
+F43.0: Acute stress reaction 
+F43.1: Post-traumatic stress disorder 
+F43.2: Adjustment disorders 
+F43.8: Other reactions to severe stress    
+F43.9: Reaction to severe stress, unspecified 
+F44.0: Dissociative amnesia 
+F44.1: Dissociative fugue 
+F44.2: Dissociative stupor 
+F44.3: Trance and possession disorders 
+F44.4: Dissociative motor disorders 
+F44.5: Dissociative convulsions 
+F44.6: Dissociative anaesthesia and sensory loss 
+F44.8: Other dissociative [conversion] disorders 
+F44.9: Dissociative [conversion] disorder, unspecified 
+F45.0: Somatization disorder 
+F45.1: Undifferentiated somatoform disorder 
+F45.2: Hypochondriacal disorder 
+F45.3: Somatoform autonomic dysfunction 
+F45.4: Persistent somatoform pain disorder 
+F45.8: Other somatoform disorders 
+F45.9: Somatoform disorder, unspecified 
+F48.0: Neurasthenia 
+F48.1: Depersonalization-derealization syndrome 
+F48.8: Other specified neurotic disorders 
+F48.9: (neurotic disorder, unspecified), 
+F50.0: Anorexia nervosa 
+F50.1: Atypical anorexia nervosa 
+F50.2: Bulimia nervosa 
+F50.3: Atypical bulimia nervosa 
+F50.4: Overeating associated with other psychological disturbances 
+F50.5: Vomiting associated with other psychological disturbances 
+F50.8: Other eating disorders 
+F50.9: Eating disorder, unspecified 
+F51.0: Nonorganic insomnia 
+F51.1: Nonorganic hypersomnia 
+F51.2: Nonorganic disorder of the sleep-wake schedule 
+F51.3: Sleepwalking [somnambulism] 
+F51.4: Sleep terrors [night terrors] 
+F51.5: Nightmares 
+F51.8: Other nonorganic sleep disorders 
+F51.9: Nonorganic sleep disorder, unspecified 
+F52.0: Lack or loss of sexual desire 
+F52.1: Sexual aversion and lack of sexual enjoyment 
+F52.2: Failure of genital response 
+F52.3: Orgasmic dysfunction 
+F52.4: Premature ejaculation 
+F52.5: Nonorganic vaginismus 
+F52.6: Nonorganic dyspareunia 
+F52.7: Excessive sexual drive 
+F52.8: Other sexual dysfunction, not caused by organic disorder or disease 
+F52.9: Unspecified sexual dysfunction, not caused by organic disorder or disease 
+F53.0: Mild mental and behavioural disorders associated with the 
+F53.1: Severe mental and behavioural disorders associated with 
+F53.8: Other mental and behavioural disorders associated with the puerperium, not 
+F53.9: Puerperal mental disorder, unspecified 
+F55.0: Antidepressants 
+F55.1: Laxatives 
+F55.2: Analgesics 
+F55.3: Antacids 
+F55.4: Vitamins 
+F55.5: Steroids or hormones 
+F55.6: Specific herbal or folk remedies 
+F55.8: Other substances that do not produce dependence 
+F55.9: Unspecified 
+F60.0: Paranoid personality disorder 
+F60.1: Schizoid personality disorder 
+F60.2: Dissocial personality disorder 
+F60.3: Emotionally unstable personality disorder 
+F60.4: Histrionic personality disorder 
+F60.5: Anankastic personality disorder 
+F60.6: Anxious [avoidant] personality disorder 
+F60.7: Dependent personality disorder 
+F60.8: Other specific personality disorders 
+F60.9: Personality disorder, unspecified 
+F61.0: Mixed personality disorders 
+F61.1: Troublesome personality changes 
+F62.0:     and F62.1, such as chronic pain personality syndrome 
+F62.1: Enduring personality change after psychiatric illness 
+F62.8: Other enduring personality changes 
+F62.9: Enduring personality change, unspecified 
+F63.0: Pathological gambling 
+F63.1: Pathological fire-setting [pyromania] 
+F63.2: Pathological stealing [kleptomania] 
+F63.3: Trichotillomania 
+F63.8: Other habit and impulse disorders 
+F63.9: Habit and impulse disorder, unspecified 
+F64.0: Transsexualism 
+F64.1: Dual-role transvestism 
+F64.2: Gender identity disorder of childhood 
+F64.8: Other gender identity disorders 
+F64.9: Gender identity disorder, unspecified 
+F65.0: Fetishism 
+F65.1: Fetishistic transvestism 
+F65.2: Exhibitionism 
+F65.3: Voyeurism 
+F65.4: Paedophilia 
+F65.5: Sadomasochism 
+F65.6: Multiple disorders of sexual preference 
+F65.8: Other disorders of sexual preference 
+F65.9: Disorder of sexual preference, unspecified 
+F66.0: Sexual maturation disorder 
+F66.1: Egodystonic sexual orientation 
+F66.2: Sexual relationship disorder 
+F66.8: Other psychosexual development disorders 
+F66.9: Psychosexual development disorder, unspecified 
+F68.0: Elaboration of physical symptoms for psychological reasons 
+F68.8: Other specified disorders of adult personality and behaviour 
+F80.0: Specific speech articulation disorder 
+F80.1: Expressive language disorder 
+F80.2: Receptive language disorder 
+F80.3: Acquired aphasia with epilepsy [Landau-Kleffner syndrome] 
+F80.8: Other developmental disorders of speech and language 
+F80.9: Developmental disorder of speech and language, unspecified 
+F81.0: or F81.1.   
+F81.1: Specific spelling disorder 
+F81.2: and either 
+F81.3: Mixed disorder of scholastic skills 
+F81.8: Other developmental disorders of scholastic skills 
+F81.9: Developmental disorder of scholastic skills, unspecified 
+F84.0: Childhood autism 
+F84.1: or F84.2 are met, that condition should be 
+F84.2: Rett's syndrome 
+F84.3: Other childhood disintegrative disorder 
+F84.5: Asperger's syndrome 
+F84.8: Other pervasive developmental disorders 
+F84.9: Pervasive developmental disorder, unspecified 
+F90.0: and F90.1 but the overall criteria for F90.- 
+F90.1: Hyperkinetic conduct disorder 
+F90.8: Other hyperkinetic disorders 
+F90.9: Hyperkinetic disorder, unspecified 
+F91.0: and F91.2.  Children with this disorder tend frequently and actively to defy 
+F91.1: Unsocialized conduct disorder 
+F91.2: Socialized conduct disorder 
+F91.3: Oppositional defiant disorder 
+F91.8: Other conduct disorders 
+F91.9: Conduct disorder, unspecified 
+F92.0: Depressive conduct disorder 
+F92.8: Other mixed disorders of conduct and emotions 
+F92.9: Mixed disorder of conduct and emotions, unspecified 
+F93.0: Separation anxiety disorder of childhood  
+F93.2: Social anxiety disorder of childhood  
+F93.3: Sibling rivalry disorder  
+F93.8: Other childhood emotional disorders  
+F93.9: Childhood emotional disorder, unspecified  
+F94.0: Elective mutism  
+F94.1: Reactive attachment disorder of childhood  
+F94.2: Disinhibited attachment disorder of childhood  
+F94.8: Other childhood disorders of social functioning  
+F94.9: Childhood disorder of social functioning, unspecified  
+F95.0: Transient tic disorder  
+F95.1: or F95.2. 
+F95.2: Combined vocal and multiple motor tic disorder [de la Tourette's syndrome]  
+F95.8: Other tic disorders  
+F95.9: Tic disorder, unspecified  
+F98.0: Nonorganic enuresis  
+F98.1: Nonorganic encopresis  
+F98.2: Feeding disorder of infancy and childhood  
+F98.3: Pica of infancy and childhood  
+F98.4: and the visual condition under the appropriate 
+F98.5: Stuttering [stammering]  
+F98.6:  Cluttering  
+F07.9: Unspecified organic personality and behavioural disorder  
+F00.0: or F00.1 
+F00.1:  Dementia in Alzheimer's disease with late onset 
+F00.2:  Dementia in Alzheimer's disease, atypical or mixed type 
+F00.9:  Dementia in Alzheimer's disease, unspecified 
+F01.0: Vascular dementia of acute onset 
+F01.1: Multi-infarct dementia 
+F01.2: Subcortical vascular dementia 
+F01.3: Mixed cortical and subcortical vascular dementia 
+F01.8: Other vascular dementia 
+F01.9: Vascular dementia, unspecified 
+F02.0: Dementia in Pick's disease 
+F02.1: Dementia in Creutzfeldt-Jakob disease 
+F02.2: Dementia in Huntington's disease 
+F02.3: Dementia in Parkinson's disease 
+F02.4: Dementia in human immunodeficiency virus [HIV] disease 
+F02.8: Dementia in other specified diseases classified elsewhere 
+F05.0: Delirium, not superimposed on dementia, so described 
+F05.1: Delirium, superimposed on dementia 
+F05.8: Other delirium 
+F05.9: Delirium, unspecified 
+F06.0: Organic hallucinosis 
+F06.1: Organic catatonic disorder 
+F06.2: and those induced by drugs under F1x.5.   
+F06.3: Organic mood [affective] disorders 
+F06.4: Organic anxiety disorder 
+F06.5: Organic dissociative disorder 
+F06.6: Organic emotionally labile [asthenic] disorder 
+F06.7: Mild cognitive disorder 
+F06.8: Other specified mental disorders due to brain damage and 
+F06.9: Unspecified mental disorder due to brain damage and dysfunc-   tion and to physical 
+F07.0: should be used 
+F07.1: Postencephalitic syndrome 
+F07.2: Postconcussional syndrome 
+F07.8:  Other organic personality and behavioural disorders due to  brain disease, damage 
+F1.3: Withdrawal state  
+F84.4: Overactive disorder associated with mental retardation and stereotyped 
+F98.8: Other specified behavioural and emotional disorders with onset usually occurring in 
